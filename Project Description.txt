@@ -1,0 +1,9 @@
+Project Name: WhatsApp Food Bot
+
+Project Description:  we developed a friendly online food ordering chat bot using Python that works with the WhatsApp chatting system. Our goal was to create an efficient and easy-to-use bot that allows users to order food from nearby restaurants in a conversational way. The bot asks for the user's location and provides a list of restaurants that deliver to that location. Users can select a restaurant, choose their food items and toppings, and pay through various payment options. We used Microsoft Teams, WhatsApp, and Discord for conversations during the project.
+
+Project Features:
+Automatic and manual location access for user convenience
+List of nearby restaurants for food ordering
+Option to choose food items and toppings
+Multiple payment options for user convenience
