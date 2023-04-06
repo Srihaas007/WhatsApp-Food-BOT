@@ -1,6 +1,6 @@
-# The Pizza Bot
+# WhatsApp Food BOT
 
-Pizza Bot is a WhatsApp chat bot created using the Twilio Programmable SMS API
+WhatsApp chat bot created using the Twilio Programmable SMS API
 
 # What is Needed
   - A Google Developers API Key 
